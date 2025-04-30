@@ -39,6 +39,7 @@ streamlit run streamlit_app.py
 ```
 - Streamlit app URL: http://localhost:8501
 
+---
 
 ## 📌 Example API Endpoints
 
