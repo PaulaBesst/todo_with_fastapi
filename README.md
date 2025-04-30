@@ -40,3 +40,11 @@ streamlit run streamlit_app.py
 - Streamlit app URL: http://localhost:8501
 
 
+## 📌 Example API Endpoints
+
+| Method | Endpoint           | Description         |
+|--------|--------------------|---------------------|
+| GET    | `/api/`            | Get all todos       |
+| POST   | `/api/`            | Add a new todo      |
+| PUT    | `/api/{id}`        | Update a todo       |
+| DELETE | `/api/{id}`        | Delete a todo       |
