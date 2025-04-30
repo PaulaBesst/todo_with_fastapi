@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+
+fastapi-env/
+
+*.db
+*.db-shm
+*.db-wal
+
+.vscode/
